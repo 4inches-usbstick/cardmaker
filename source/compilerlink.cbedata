@@ -1,0 +1,13 @@
+###
+DO NOT EDIT, RENAME OR MOVE THIS FILE
+###
+
+class[main>
+
+class[image> htmltext==<img src='$source'>;]
+class[image_rs> htmltext==<img src='$source' width='$width' height='$height'>;]
+class[textbar> htmltext==<p style="background-color: $bgd^; color: $fgd^; font-size: $fontsize^;">$text</p>;]
+class[link> htmltext==<a href='$linkto'>$text</a>;]
+class[text> htmltext==<p style='background-color: $bgd; color: $fgd; font-size: $fontsize; display: inline;'>$text</p>;]
+class[read_newline> htmltext==<div style='white-space: pre^;'>;]
+class[background_color> htmltext==<body style='background-color: $color'>;]

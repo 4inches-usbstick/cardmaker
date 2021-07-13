@@ -1,0 +1,9 @@
+/background_color, color #101010
+/textbar, bgd #420690, fgd #ABCDEF, fontsize 24, text Text
+/text, text Test, fgd #FFFFFF
+/text, text 4inches[dash_escape]usbstick for Github, fgd #FFFFFF
+/text, text he him they them, fgd #FFFFFF
+/link, text Index.HTML, linkto http://localhost:8080/index.html
+
+
+This is a whole ass paragraph
